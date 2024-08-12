@@ -3,11 +3,11 @@
   <title>孤城一豪&amp;blog</title>
   
   <subtitle>一柄枪，一壶酒，一座城，一个人</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://yufusir.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://yufusir.github.io/"/>
   <updated>2024-08-08T07:20:20.040Z</updated>
-  <id>http://example.com/</id>
+  <id>https://yufusir.github.io/</id>
   
   <author>
     <name>愚夫</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>blog的搭建</title>
-    <link href="http://example.com/posts/d6cdeee.html"/>
-    <id>http://example.com/posts/d6cdeee.html</id>
+    <link href="https://yufusir.github.io/posts/d6cdeee.html"/>
+    <id>https://yufusir.github.io/posts/d6cdeee.html</id>
     <published>2024-08-02T16:00:00.000Z</published>
     <updated>2024-08-08T07:20:20.040Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    <category term="hexo" scheme="https://yufusir.github.io/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>黑马程序员python自学笔记，超详细（内置环境配置与编译器的下载）</title>
-    <link href="http://example.com/posts/c0de5885.html"/>
-    <id>http://example.com/posts/c0de5885.html</id>
+    <link href="https://yufusir.github.io/posts/c0de5885.html"/>
+    <id>https://yufusir.github.io/posts/c0de5885.html</id>
     <published>2024-06-08T16:00:00.000Z</published>
     <updated>2024-08-06T11:53:54.000Z</updated>
     
@@ -55,17 +55,17 @@
     
     
     
-    <category term="编程笔记" scheme="http://example.com/categories/%E7%BC%96%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    <category term="编程笔记" scheme="https://yufusir.github.io/categories/%E7%BC%96%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="python" scheme="http://example.com/tags/python/"/>
+    <category term="python" scheme="https://yufusir.github.io/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>黑马程序员java自学笔记（包括Java环境配置与IDEA的下载地址）</title>
-    <link href="http://example.com/posts/4454963.html"/>
-    <id>http://example.com/posts/4454963.html</id>
+    <link href="https://yufusir.github.io/posts/4454963.html"/>
+    <id>https://yufusir.github.io/posts/4454963.html</id>
     <published>2024-05-18T16:00:00.000Z</published>
     <updated>2024-08-06T12:05:46.000Z</updated>
     
@@ -79,10 +79,10 @@
     
     
     
-    <category term="编程笔记" scheme="http://example.com/categories/%E7%BC%96%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    <category term="编程笔记" scheme="https://yufusir.github.io/categories/%E7%BC%96%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="java" scheme="http://example.com/tags/java/"/>
+    <category term="java" scheme="https://yufusir.github.io/tags/java/"/>
     
   </entry>
   

@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/d6cdeee.html</loc>
+    <loc>https://yufusir.github.io/categories/index.html</loc>
+    
+    <lastmod>2024-08-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yufusir.github.io/tags/index.html</loc>
+    
+    <lastmod>2024-08-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yufusir.github.io/posts/d6cdeee.html</loc>
     
     <lastmod>2024-08-08</lastmod>
     
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/4454963.html</loc>
+    <loc>https://yufusir.github.io/posts/4454963.html</loc>
     
     <lastmod>2024-08-06</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/c0de5885.html</loc>
+    <loc>https://yufusir.github.io/posts/c0de5885.html</loc>
     
     <lastmod>2024-08-06</lastmod>
     
@@ -29,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://yufusir.github.io/link/index.html</loc>
     
     <lastmod>2024-08-04</lastmod>
     
@@ -38,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://yufusir.github.io/manifest.json</loc>
     
     <lastmod>2024-08-03</lastmod>
     
@@ -48,30 +66,30 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2024-08-08</lastmod>
+    <loc>https://yufusir.github.io/</loc>
+    <lastmod>2024-08-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/hexo/</loc>
-    <lastmod>2024-08-08</lastmod>
+    <loc>https://yufusir.github.io/tags/hexo/</loc>
+    <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/python/</loc>
-    <lastmod>2024-08-08</lastmod>
+    <loc>https://yufusir.github.io/tags/python/</loc>
+    <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/java/</loc>
-    <lastmod>2024-08-08</lastmod>
+    <loc>https://yufusir.github.io/tags/java/</loc>
+    <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -79,8 +97,8 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E7%BC%96%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-08-08</lastmod>
+    <loc>https://yufusir.github.io/categories/%E7%BC%96%E7%A8%8B%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2024-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
