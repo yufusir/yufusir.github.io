@@ -36,11 +36,11 @@
     <category term="项目实战" scheme="https://yufusir.github.io/categories/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
     
     
-    <category term="python" scheme="https://yufusir.github.io/tags/python/"/>
+    <category term="爬虫" scheme="https://yufusir.github.io/tags/%E7%88%AC%E8%99%AB/"/>
     
     <category term="mysql" scheme="https://yufusir.github.io/tags/mysql/"/>
     
-    <category term="爬虫" scheme="https://yufusir.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+    <category term="python" scheme="https://yufusir.github.io/tags/python/"/>
     
     <category term="selenium" scheme="https://yufusir.github.io/tags/selenium/"/>
     
@@ -66,9 +66,9 @@
     <category term="项目实战" scheme="https://yufusir.github.io/categories/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
     
     
-    <category term="python" scheme="https://yufusir.github.io/tags/python/"/>
-    
     <category term="mysql" scheme="https://yufusir.github.io/tags/mysql/"/>
+    
+    <category term="python" scheme="https://yufusir.github.io/tags/python/"/>
     
   </entry>
   
@@ -92,9 +92,9 @@
     <category term="工具" scheme="https://yufusir.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="kali" scheme="https://yufusir.github.io/tags/kali/"/>
-    
     <category term="Linux" scheme="https://yufusir.github.io/tags/Linux/"/>
+    
+    <category term="kali" scheme="https://yufusir.github.io/tags/kali/"/>
     
   </entry>
   
@@ -119,9 +119,9 @@
     <category term="项目实战" scheme="https://yufusir.github.io/categories/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
     
     
-    <category term="python" scheme="https://yufusir.github.io/tags/python/"/>
-    
     <category term="mysql" scheme="https://yufusir.github.io/tags/mysql/"/>
+    
+    <category term="python" scheme="https://yufusir.github.io/tags/python/"/>
     
     <category term="linux" scheme="https://yufusir.github.io/tags/linux/"/>
     
@@ -171,9 +171,9 @@
     <category term="工具" scheme="https://yufusir.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="Mysql" scheme="https://yufusir.github.io/tags/Mysql/"/>
-    
     <category term="kali" scheme="https://yufusir.github.io/tags/kali/"/>
+    
+    <category term="Mysql" scheme="https://yufusir.github.io/tags/Mysql/"/>
     
     <category term="数据库" scheme="https://yufusir.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
@@ -240,9 +240,9 @@
     <link href="https://yufusir.github.io/posts/d6cdeee.html"/>
     <id>https://yufusir.github.io/posts/d6cdeee.html</id>
     <published>2024-08-02T16:00:00.000Z</published>
-    <updated>2024-08-19T17:02:25.687Z</updated>
+    <updated>2025-07-24T12:07:09.305Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="利用Hexo搭建blog"><a href="#利用Hexo搭建blog" class="headerlink" title="利用Hexo搭建blog"></a>利用Hexo搭建blog</h3><p>这篇文章只是用来记录我搭建blog的过程的，虽然我这次布置的有些小小拉跨，但是对于我自己的使用是十分足够的，使用hexo布置blog在GitHub上基本免费的（有钱就别用这种搭建，费时费力），我可能会在之后的时间里对这个网站优化。总体而言，有个独属于自己的博客在感觉上还是不错的。如果也有人想用hexo搭建blog，我会把教程与资料分享在下面，欢迎大家与我互换友链</p><h4 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h4><p>b站安知鱼有一套完整的教程<a href="https://www.bilibili.com/video/BV13v4y1c75G/?spm_id_from=333.788&amp;vd_source=d7aed904328df9600c4d6478e2ce67b8">01.hexo博客搭建最终效果展示_哔哩哔哩_bilibili</a></p><h4 id="中途需要的资源网站与文章"><a href="#中途需要的资源网站与文章" class="headerlink" title="中途需要的资源网站与文章"></a>中途需要的资源网站与文章</h4><p>hexo的安装<a href="https://blog.anheyu.com/posts/ddae.html">使用 Github Pages 和 Hexo 搭建自己的独立博客 | 安知鱼 (anheyu.com)</a></p><p>butterfly的安装<a href="https://butterfly.js.org/posts/21cfbf15/">Butterfly 安裝文檔(一) 快速開始 | Butterfly</a></p><p>butterfly的配置<a href="https://blog.anheyu.com/posts/sdxhu.html">butterfly 重装日记 | 安知鱼 (anheyu.com)</a></p><p>node的官网<a href="https://nodejs.org/en/download/prebuilt-installer">Node.js — Download Node.js® (nodejs.org)</a></p><p>git的官网<a href="https://git-scm.com/download/win">Git - Downloading Package (git-scm.com)</a></p><p>免费图床<a href="https://www.superbed.cn/signup?from_id=127373">https://www.superbed.cn/signup?from_id=127373</a></p><p>注意：有部分软件在国外，所以魔法必要，但如果你的魔法不太行，可以到清华镜像里面找找</p><h4 id="hexo操作"><a href="#hexo操作" class="headerlink" title="hexo操作"></a>hexo操作</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">清除缓存</span><br><span class="line">hexo cl</span><br><span class="line"></span><br><span class="line">保存</span><br><span class="line">hexo g</span><br><span class="line"></span><br><span class="line">本地运行</span><br><span class="line">hexo s</span><br><span class="line"></span><br><span class="line">上传github</span><br><span class="line">hexo d</span><br><span class="line"></span><br><span class="line">更新动漫数据</span><br><span class="line">hexo bangumi -u</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h3 id="利用Hexo搭建blog"><a href="#利用Hexo搭建blog" class="headerlink" title="利用Hexo搭建blog"></a>利用Hexo搭建blog</h3><p>这篇文章只是用来记录我搭建blog的过程的，虽然我这次布置的有些小小拉跨，但是对于我自己的使用是十分足够的，使用hexo布置blog在GitHub上基本免费的（有钱就别用这种搭建，费时费力），我可能会在之后的时间里对这个网站优化。总体而言，有个独属于自己的博客在感觉上还是不错的。如果也有人想用hexo搭建blog，我会把教程与资料分享在下面，欢迎大家与我互换友链</p><h4 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h4><p>b站安知鱼有一套完整的教程<a href="https://www.bilibili.com/video/BV13v4y1c75G/?spm_id_from=333.788&amp;vd_source=d7aed904328df9600c4d6478e2ce67b8">01.hexo博客搭建最终效果展示_哔哩哔哩_bilibili</a></p><h4 id="中途需要的资源网站与文章"><a href="#中途需要的资源网站与文章" class="headerlink" title="中途需要的资源网站与文章"></a>中途需要的资源网站与文章</h4><p>hexo的安装<a href="https://blog.anheyu.com/posts/ddae.html">使用 Github Pages 和 Hexo 搭建自己的独立博客 | 安知鱼 (anheyu.com)</a></p><p>butterfly的安装<a href="https://butterfly.js.org/posts/21cfbf15/">Butterfly 安裝文檔(一) 快速開始 | Butterfly</a></p><p>butterfly的配置<a href="https://blog.anheyu.com/posts/sdxhu.html">butterfly 重装日记 | 安知鱼 (anheyu.com)</a></p><p>node的官网<a href="https://nodejs.org/en/download/prebuilt-installer">Node.js — Download Node.js® (nodejs.org)</a></p><p>git的官网<a href="https://git-scm.com/download/win">Git - Downloading Package (git-scm.com)</a></p><p>免费图床<a href="https://www.superbed.cn/signup?from_id=127373">https://www.superbed.cn/signup?from_id=127373</a></p><p>注意：有部分软件在国外，所以魔法必要，但如果你的魔法不太行，可以到清华镜像里面找找</p><h4 id="hexo操作"><a href="#hexo操作" class="headerlink" title="hexo操作"></a>hexo操作</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">清除缓存</span><br><span class="line">hexo cl</span><br><span class="line"></span><br><span class="line">保存</span><br><span class="line">hexo g</span><br><span class="line"></span><br><span class="line">本地运行</span><br><span class="line">hexo s</span><br><span class="line"></span><br><span class="line">上传github</span><br><span class="line">hexo d</span><br><span class="line"></span><br><span class="line">更新动漫数据</span><br><span class="line">hexo bangumi -u</span><br></pre></td></tr></table></figure><h4 id="hexo项目迁徙"><a href="#hexo项目迁徙" class="headerlink" title="hexo项目迁徙"></a>hexo项目迁徙</h4><h5 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h5><p>如果你电脑重装系统或者换了新电脑，想要继续在本地部署原来的hexo项目并能推送到GitHub Pages，首先你得将原来的<code>hexo</code>项目全部copy，如果可以的话，把之前的node安装包和git安装包也copy一份，主要是node安装包。安装之后的检查安装命令如下：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git --version</span><br><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure><h5 id="hexo本地全局安装"><a href="#hexo本地全局安装" class="headerlink" title="hexo本地全局安装"></a>hexo本地全局安装</h5><p>选择一个磁盘，新建一个文件夹，自己重命名文件夹（如：我的文件夹为：<code>E:\tools\Blog\hexo_butterfly</code>），博客相关文件将储存在此文件夹下，在该文件夹下右键鼠标，点击 Git Bash Here，输入以下 <code>npm</code> 命令即可安装</p><p>命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure><p>解释：这个是非常有必要的，没有安装<code>hexo</code>的话是无法使用<code>hexo</code>相关命令的</p><h5 id="hexo初始化配置"><a href="#hexo初始化配置" class="headerlink" title="hexo初始化配置"></a>hexo初始化配置</h5><p>由于我们是第二次初始化<code>hexo</code>项目并且拥有之前的原项目，我们接下来的步骤也是非常简单。首先将项目copy到指定文件夹，如果你原来使用的node版本与现在一致的话，就不需要删除原 <code>node_modules</code> 和 <code>package-lock.json</code>，<code>node_modules</code>里面包含了你之前下载的所有插件，<code>package-lock.json</code>则是记录安装插件的确切版本，如果node版本不一致会出现兼容性问题，所以要卸载干净。然后就是一定要使用一次的命令，让node检查一下依赖。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure><p>运行之后，就本地运行一下hexo，看是否正常。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo cl</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure><h5 id="推送GitHub-Pages"><a href="#推送GitHub-Pages" class="headerlink" title="推送GitHub Pages"></a>推送GitHub Pages</h5><p>如果你重新换个<code>GitHub</code>账号的话，就需要新建个<code>GitHub Pages</code>，并且将新SSH在<code>_config.yml</code>下deploy的repository中的旧SSH替换</p><p>配置 <code>SSH</code> 密钥：只有配置好 <code>SSH</code> 密钥后，我们才可以通过 git 操作实现本地代码库与 Github 代码库同步，在你指定文件夹里面（如：我的文件夹为：<code>E:\tools\Blog\hexo_butterfly</code>） <code>Git Bash Here</code> 输入以下命令</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;750603895@qq.com&quot;</span><br><span class="line">//引号里面填写你的邮箱地址，比如我的是750603895@qq.com</span><br></pre></td></tr></table></figure><p>然后会有一堆东西出来，别管，直接回车到结束为止。然后key就在<code>/c/Users/you/.ssh/id_rsa.pub</code>目录下了，你直接复制文件全部内容，登录GitHub，进入settings，点击点击 <code>SSH and GPG Keys</code>，选择 New SSH key，粘贴密钥。完成之后就ok了。</p>]]></content>
     
     
       
